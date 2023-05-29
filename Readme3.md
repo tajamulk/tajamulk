@@ -55,23 +55,25 @@
 
 ###
 
+👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)
+
 🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
 
-- 🌱 I’m currently learning **Deep Learning, aws, Azure**
+🌱 I’m currently learning **Deep Learning, aws, Azure**
 
-- 👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/tajamulk2/mlproject)
+👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/tajamulk2/mlproject)
 
-- 🤝 I’m looking for help with [Deployment](https://github.com/tajamulk2/mlproject)
+🤝 I’m looking for help with [Deployment](https://github.com/tajamulk2/mlproject)
 
-- 👨‍💻 Check out my Portfolio! [https://tajamul.dev.voyage/](https://tajamul.dev.voyage/)
+👨‍💻 Check out my Portfolio! [https://tajamul.dev.voyage/](https://tajamul.dev.voyage/)
 
-- 📝 I regularly write articles on [https://medium.com/@tajamulk2](https://medium.com/@tajamulk2)
+📝 I regularly write articles on [https://medium.com/@tajamulk2](https://medium.com/@tajamulk2)
 
-- 💬 Ask me about **python, sql, statistics and power bi**
+💬 Ask me about **python, sql, statistics and power bi**
 
-- 📫 How to reach me **tajamulk@gmail.com**
+📫 How to reach me **tajamulk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
+📄 Know about my experiences [https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
 
 
 ###
