@@ -128,8 +128,8 @@
 </div>
 
 ###
-
 <h3 align="left">🔥   Viral Blogs</h3>
+###
 
 [SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
 [SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
