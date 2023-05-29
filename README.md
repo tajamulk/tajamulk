@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Facts about me</h3>
+<h2 align="left">👩‍💻  Facts about me</h2>
 
 ###
 
