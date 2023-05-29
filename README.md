@@ -67,7 +67,7 @@
 
 📝 I regularly post articles on </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a>, <a href="https://medium.com/@tajamulk2" target="_blank">
+  </a> <a href="https://medium.com/@tajamulk2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
   
 💬 Ask me about [Data Science Tools,](https://www.linkedin.com/in/tajamulk2/) [Careers,](https://www.linkedin.com/in/tajamulk2/) [Mentorship](https://www.linkedin.com/in/tajamulk2/)
@@ -130,8 +130,6 @@
 ###
 
 <h2 align="left">🔥   Viral Blogs</h2>
-  
-### Most Viral Blogs posts
 
 [SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
 [SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
