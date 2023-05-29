@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://tajamul.dev.voyage/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22"  />
+    <img src="https://img.shields.io/static/v1?message=My Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%22alt=%22port%20logo%22"  />
   </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
