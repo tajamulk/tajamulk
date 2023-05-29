@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://tajamul.dev.voyage/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22"  />
+    <img src="https://img.shields.io/static/v1?message=My Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22"  />
   </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
@@ -51,7 +51,7 @@
 
 ###
 
-<img align="right" height="405" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="370" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -59,19 +59,26 @@
 
 🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
 
-🌱 I’m currently learning **Deep Learning, aws, Azure**
+🌱 My Latest hinges are [Deep Learning](https://udemy.com/course/machinelearning/learn/lecture/34759790#overview), [AWS](https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjw98ujBhCgARIsAD7QeAhd8QzRxW9d_TM5Qowpyf-LMLct1Zyq4GeFUjb80zd4OOlYk82RBHYaAh_0EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all), [Azure](https://azure.microsoft.com/en-in)
 
-👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/tajamulk2/mlproject)
+👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/tajamulk2)
 
-🤝 I’m looking for help with [Deployment](https://github.com/tajamulk2/mlproject)
+🤝 I’m looking for help with [Open Source Collaborations](https://github.com/tajamulk2)
 
-👨‍💻 Check out my Portfolio! [https://tajamul.dev.voyage/](https://tajamul.dev.voyage/)
+📝 I regularly post articles on </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a>, <a href="https://medium.com/@tajamulk2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
+  
+💬 Ask me about **[Data Science Tools](https://www.linkedin.com/in/tajamulk2/), [Careers](https://www.linkedin.com/in/tajamulk2/), [Mentorship](https://www.linkedin.com/in/tajamulk2/)**
 
-📝 I regularly write articles on [https://medium.com/@tajamulk2](https://medium.com/@tajamulk2)
-
-💬 Ask me about **python, sql, statistics and power bi**
-
-📫 How to reach me **tajamulk@gmail.com**
+📫 How to reach me </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a> </a>
+  <a href="https://wa.me/7006542939" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="20" alt="whatsapp logo"  />
+  </a> <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
 
 📄 Know about my experiences [https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
 
