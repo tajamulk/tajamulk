@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://tajamul.dev.voyage/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22"  />
-  <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
+  </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/7006542939" target="_blank">
@@ -40,6 +40,9 @@
   <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
   </a>
+  <a href="https://www.kaggle.com/tajamulkhan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -52,7 +55,7 @@
 
 ###
 
-<p align="left">👨‍💻 Check out my Portfolio! https://tajamul.dev.voyage/<br><br>🔭 I’m currently working on End to End Machine Learning Deployment<br><br>🌱 I’m currently learning Deep Learning, AWS, Azure<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with finding Real-time projects<br><br>📝 I regularly write articles on https://medium.com/@tajamulk2<br><br>💬 Ask me about python, sql, statistics and power bi<br><br>📫 How to reach me tajamulk@gmail.com<br><br>📄 Know about my experiences <br><br>⚡ Fun fact If you can't be interesting be mysterious 😂</p>
+<p align="left">👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)<br><br>🔭 I’m currently working on End to End Machine Learning Deployment<br><br>🌱 I’m currently learning Deep Learning, AWS, Azure<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with finding Real-time projects<br><br>📝 I regularly write articles on https://medium.com/@tajamulk2<br><br>💬 Ask me about python, sql, statistics and power bi<br><br>📫 How to reach me tajamulk@gmail.com<br><br>📄 Know about my experiences <br><br>⚡ Fun fact If you can't be interesting be mysterious 😂</p>
 
 ###
 
