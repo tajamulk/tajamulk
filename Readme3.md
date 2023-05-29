@@ -135,10 +135,8 @@
 
 [SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
 [SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
-[Top 50 Data Analyst Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_top-50-interview-questions-activity-7059913488512544768-X-ar?utm_source=share&utm_medium=member_desktop)
-[Important Excel Shortcuts 👈](https://www.linkedin.com/posts/tajamulk2_excel-shortcuts-activity-7060772728185786368-MrY8?utm_source=share&utm_medium=member_desktop)
-[SQL Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_sql-from-beginner-to-advanced-activity-7061874995446120448-5VvY?utm_source=share&utm_medium=member_desktop)
-[Learn SQL Topic Wise 👈](https://medium.com/@tajamulk2/learn-sql-topic-wise-b0d53414c217)
+[Data Analyst Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_top-50-interview-questions-activity-7059913488512544768-X-ar?utm_source=share&utm_medium=member_desktop)
+[Awesome Excel Shortcuts 👈](https://www.linkedin.com/posts/tajamulk2_excel-shortcuts-activity-7060772728185786368-MrY8?utm_source=share&utm_medium=member_desktop)
 [Learn SQL for Free! 👈](https://medium.com/@tajamulk2/want-to-learn-sql-for-free-8e583d8e8496)
   
 ###
