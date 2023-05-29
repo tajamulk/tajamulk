@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
   </a>
   <a href="https://www.kaggle.com/tajamulkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%22height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
   </a>
 </div>
 
