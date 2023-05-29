@@ -82,7 +82,7 @@
 
 📄 Know about my experiences [Resume 😎](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
   
-⚡ Fun fact Common sense is not so common 😂
+⚡ Fun fact: Common sense is not so common 😂
 
 
 ###
