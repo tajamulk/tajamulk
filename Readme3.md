@@ -55,7 +55,7 @@
 
 ###
 
-- 🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
+🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
 
 - 🌱 I’m currently learning **Deep Learning, aws, Azure**
 
