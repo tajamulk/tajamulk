@@ -81,6 +81,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
 
 📄 Know about my experiences [Resume 😎](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
+  
+⚡ Fun fact Common sense is not so common 😂
 
 
 ###
