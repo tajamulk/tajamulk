@@ -28,7 +28,7 @@ h1 align="center">Hi 👋, I'm Tajamul Khan</h1>
 - ⚡ Fun fact **99% of people can't spell 12th right 😂**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -50,3 +50,18 @@ h1 align="center">Hi 👋, I'm Tajamul Khan</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajamulk2&show_icons=true&locale=en" alt="tajamulk2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tajamulk2&" alt="tajamulk2" /></p>
+
+### Most Viral Blogs posts
+
+[SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
+[SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
+[Top 50 Data Analyst Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_top-50-interview-questions-activity-7059913488512544768-X-ar?utm_source=share&utm_medium=member_desktop)
+[Data Science RoadMap 👈](https://www.linkedin.com/posts/tajamulk2_data-science-road-map-with-free-courses-activity-7058205813986766848-ASC5?utm_source=share&utm_medium=member_desktop)
+[Important Excel Shortcuts 👈](https://www.linkedin.com/posts/tajamulk2_excel-shortcuts-activity-7060772728185786368-MrY8?utm_source=share&utm_medium=member_desktop)
+[SQL Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_sql-from-beginner-to-advanced-activity-7061874995446120448-5VvY?utm_source=share&utm_medium=member_desktop)
+[Data Analyst vs. Business Analyst 👈](https://medium.com/@tajamulk2/data-analyst-vs-business-analyst-ff2cb35341e2)
+[Learn SQL Topic Wise 👈](https://medium.com/@tajamulk2/learn-sql-topic-wise-b0d53414c217)
+[Learn SQL for Free! 👈](https://medium.com/@tajamulk2/want-to-learn-sql-for-free-8e583d8e8496)
+[Data Sets for Recommendation Engine 👈](https://medium.com/@tajamulk2/data-sets-for-recommendation-engine-4a260cfdeb6c)
+
+
