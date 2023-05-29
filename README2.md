@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)<br><br>🔭 I’m currently working on End to End Machine Learning Deployment<br><br>🌱 I’m currently learning Deep Learning, AWS, Azure<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with finding Real-time projects<br><br>📝 I regularly write articles on https://medium.com/@tajamulk2<br><br>💬 Ask me about python, sql, statistics and power bi<br><br>📫 How to reach me tajamulk@gmail.com<br><br>📄 Know about my experiences <br><br>⚡ Fun fact If you can't be interesting be mysterious 😂</p>
+<p align="left">👨‍💻 Check out my [Portfolio](https://tajamul.dev.voyage) /<br><br>🔭 I’m currently working on End to End Machine Learning Deployment<br><br>🌱 I’m currently learning Deep Learning, AWS, Azure<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with finding Real-time projects<br><br>📝 I regularly write articles on https://medium.com/@tajamulk2<br><br>💬 Ask me about python, sql, statistics and power bi<br><br>📫 How to reach me tajamulk@gmail.com<br><br>📄 Know about my experiences <br><br>⚡ Fun fact If you can't be interesting be mysterious 😂</p>
 
 ###
 
