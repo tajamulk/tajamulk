@@ -51,7 +51,7 @@
 
 ###
 
-<img align="right" height="370" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="390" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats</h2>
+<h2 align="left">📊   My Stats</h2>
 
 ###
 
@@ -127,5 +127,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tajamulk2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<h2 align="left">🔥   Viral Posts</h2>
+  
 ###
 
