@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">🙃 Facts about me</h2>
+<h3 align="left">🙃 Facts about me</h3>
 
 ###
 
