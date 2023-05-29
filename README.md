@@ -123,8 +123,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tajamulk2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tajamulk2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tajamulk2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tajamulk2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
 ###
