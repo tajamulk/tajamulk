@@ -70,7 +70,7 @@
   </a>, <a href="https://medium.com/@tajamulk2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
   
-💬 Ask me about **[Data Science Tools](https://www.linkedin.com/in/tajamulk2/), [Careers](https://www.linkedin.com/in/tajamulk2/), [Mentorship](https://www.linkedin.com/in/tajamulk2/)**
+💬 Ask me about [Data Science Tools](https://www.linkedin.com/in/tajamulk2/), [Careers](https://www.linkedin.com/in/tajamulk2/), [Mentorship](https://www.linkedin.com/in/tajamulk2/)
 
 📫 How to reach me </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
@@ -80,7 +80,7 @@
   </a> <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
 
-📄 Know about my experiences [https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
+📄 Know about my experiences [Resume 😎](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
 
 
 ###
