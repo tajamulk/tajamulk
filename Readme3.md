@@ -129,7 +129,7 @@
 
 ###
 
-<h2 align="left">🔥   Viral Posts</h2>
+<h2 align="left">🔥   Viral Blogs</h2>
   
 ###
 
