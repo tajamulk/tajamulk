@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">🙃 Facts about me</h3>
+<h2 align="left">🙃 Facts about me</h2>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h2 align="left">🛠 Languages & Tools</h2>
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<h3 align="left">📊   My Stats</h3>
+<h2 align="left">📊   My Stats</h2>
 
 ###
 
