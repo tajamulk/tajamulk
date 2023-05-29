@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">Hi! 👋 I'm Tajamul Khan</h1>
+<h2 align="center">Hi! 👋 I'm Tajamul Khan</h2>
 
 ###
 
-<h4 align="center">A Passionate Data 📊 Professional</h3>
+<h4 align="center">A Passionate Data 📊 Professional</h4>
 
 ###
 
