@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://tajamul.dev.voyage/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My Portfolio&logo=%F0%9F%93%8A&label=&color=#ff6347&logoColor=white&labelColor=&style=plastic%22%20height=%2220%22%22alt=%22port%20logo%22"  />
+    <img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
   </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
@@ -123,7 +123,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tajamulk2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tajamulk2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tajamulk2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
 
