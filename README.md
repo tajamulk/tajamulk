@@ -110,9 +110,7 @@
 ###
 
 <h3 align="left">📊   My Stats</h3>
-
-###
-
+  
 <br clear="both">
 
 <div align="center">
@@ -126,8 +124,6 @@
 
 ###
 
-
-###
 <h3 align="left">🔥   Viral Blogs</h3>
 ###
 
