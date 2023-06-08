@@ -119,8 +119,6 @@
   <img src="https://streak-stats.demolab.com?user=tajamulk2&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tajamulk2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tajamulk2&locale=en&hide_title=true&disable_animations=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -128,11 +126,9 @@
 
 ###
 
-###
 
 ###
 <h3 align="left">🔥   Viral Blogs</h3>
-  
 ###
 
 [SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
