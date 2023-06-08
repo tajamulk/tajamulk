@@ -63,7 +63,7 @@
 
 👯 Let's collaborate on [Machine Learning Projects](https://github.com/tajamulk2)
 
-🤝 I’m looking for help with [Open Source Collaborations](https://github.com/tajamulk2)
+🤝 I’m looking for help with [Open Source Collaborations](https://www.linkedin.com/in/tajamulk2/)
 
 📝 I regularly post articles on </a>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
