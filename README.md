@@ -8,7 +8,6 @@
 
 <h2 align="center">Hi! 👋 I'm Tajamul Khan</h2>
 
-[ab](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ###
 
@@ -127,7 +126,6 @@
 ###
 
 <h3 align="left">🔥   Viral Blogs</h3>
-###
 
 [SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
 [SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
@@ -136,5 +134,6 @@
 [Learn SQL for Free! 👈](https://medium.com/@tajamulk2/want-to-learn-sql-for-free-8e583d8e8496)
   
 ###
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
