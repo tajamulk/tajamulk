@@ -8,6 +8,8 @@
 
 <h2 align="center">Hi! 👋 I'm Tajamul Khan</h2>
 
+[ab](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 ###
 
 <h4 align="center">A Passionate Data 📊 Professional in love with <img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
