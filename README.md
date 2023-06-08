@@ -61,7 +61,7 @@
 
 🌱 My Latest hinges are [Deep Learning,](https://udemy.com/course/machinelearning/learn/lecture/34759790#overview) [AWS,](https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjw98ujBhCgARIsAD7QeAhd8QzRxW9d_TM5Qowpyf-LMLct1Zyq4GeFUjb80zd4OOlYk82RBHYaAh_0EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [Azure](https://azure.microsoft.com/en-in)
 
-👯 Let's collaborate on [Machine Learning Projects](https://github.com/tajamulk2)
+👯 Let's collaborate on [Machine Learning Projects](https://github.com/tajamulk2/Machine-Learning-Projects)
 
 🤝 I’m looking for help with [Open Source Collaborations](https://www.linkedin.com/in/tajamulk2/)
 
