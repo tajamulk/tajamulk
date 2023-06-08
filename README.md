@@ -134,6 +134,9 @@
 [Learn SQL for Free! 👈](https://medium.com/@tajamulk2/want-to-learn-sql-for-free-8e583d8e8496)
   
 ###
+  
+<h3 align="left">🔥   Support my Work</h3>
+
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
