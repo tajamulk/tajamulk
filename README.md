@@ -55,7 +55,7 @@
 
 ###
 
-👨‍💻 Check out my Mini Portfolio! ▶️ [Machine Learning](https://tajamul.dev.voyage/), [Power Bi,](https://tajamul.dev.voyage/)
+👨‍💻 Check out my Mini Portfolio! ▶️ [Machine Learning](https://tajamul.dev.voyage/) , [Power Bi,](https://tajamul.dev.voyage/)
 
 🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
 
