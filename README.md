@@ -137,7 +137,6 @@
   
 <h3 align="left">☕   Support Me</h3>
 
-<a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=tajamulk2&button_colour=ffdd00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>   <a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://i.pinimg.com/originals/76/fb/44/76fb445ee936e48c8816c2c11d55c25e.gif" height="50" >
-  
+<a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=tajamulk2&button_colour=ffdd00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>  
 
 
