@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"  />
 </div>
-123
+1234
 ###
 
 <h2 align="center">Hey! 👋 I'm Tajamul Khan</h2>
