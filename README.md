@@ -1,4 +1,4 @@
-<br clear="both">code
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"  />
