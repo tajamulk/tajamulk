@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Data 📊 Professional Passionate About <a href="https://github.com/tajamulk2/TensorFlow-OpenSource" target="_blank"><img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
+<h4 align="center">Data 📊 Professional Passionate About 
   </a></h4>
   
 ###
@@ -59,7 +59,7 @@
 
 🌱 My latest hinges are [Deep Learning,](https://udemy.com/course/machinelearning/learn/lecture/34759790#overview) [AWS,](https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjw98ujBhCgARIsAD7QeAhd8QzRxW9d_TM5Qowpyf-LMLct1Zyq4GeFUjb80zd4OOlYk82RBHYaAh_0EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [Azure](https://azure.microsoft.com/en-in)
 
-👯 Let's collaborate on [Machine Learning Projects](https://github.com/tajamulk2/Machine-Learning-Projects)
+👯 Let's collaborate on <a href="https://github.com/tajamulk2/TensorFlow-OpenSource" target="_blank"><img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
 
 🤝 I’m looking for help with [Open Source Collaborations](https://www.linkedin.com/in/tajamulk2/)
 
