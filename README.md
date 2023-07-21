@@ -10,7 +10,8 @@
 
 ###
 
-<h4 align="center">Data 📊 Professional Passionate About 
+<h4 align="center">
+👩‍💻 Your go-to Data Scientist, passionate about AI! 🚀📊
   </a></h4>
   
 ###
