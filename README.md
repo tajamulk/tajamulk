@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Hey! 👋 I'm [Tajamul](https://www.linkedin.com/in/tajamulk2/) </h2>
+<h2 align="center">Hey! 👋 I'm Tajamul Khan</h2>
 
 
 ###
