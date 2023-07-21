@@ -11,7 +11,7 @@
 ###
 
 <h4 align="center">
-👩‍💻 Your go-to Data Scientist, passionate about AI 🚀📊
+👩‍💻 Your go-to Data Scientist, passionate about ai 🚀📊
   </a></h4>
   
 ###
