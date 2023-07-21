@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Hello Data Enthusiasts!👋 I'm Tajamul Khan</h2>
+<h2 align="center">Hello, Data Enthusiasts!👋 I'm Tajamul Khan 😎 </h2>
 
 
 ###
