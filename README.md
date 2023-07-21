@@ -51,7 +51,9 @@
 
 ###
 
-👨‍💻 Check out my Mini Portfolio! [Machine Learning,](https://tajamul.dev.voyage/) [Power Bi](https://www.novypro.com/profile_projects/tajamulk2)
+👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)
+
+🏅 Checkout some Dashboards: [Power Bi,](https://www.novypro.com/profile_projects/tajamulk2) [Tableau](https://public.tableau.com/app/profile/tajamul.khan) 
 
 🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
 
