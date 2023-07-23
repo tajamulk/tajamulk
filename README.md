@@ -8,7 +8,7 @@
 <h2 align="center">Hello, Data Enthusiasts!👋 I'm Tajamul Khan 😎 </h2>
 <h4 align="center">
 
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Stellar+Data+Scientist+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Consultant+and+a+Mentor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Stellar+Data+Scientist+🌟+Consultant+🆘+and+Mentor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
   </a></h4>
   
 ###
