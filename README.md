@@ -10,11 +10,6 @@
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Stellar+Data+Scientist+🌟+Consultant+🆘+and+Mentor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
   </a></h4>
-  
-###
-
-<br clear="both">
-
 <div align="center">
     <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
