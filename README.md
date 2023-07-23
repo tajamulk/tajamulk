@@ -6,12 +6,9 @@
 ###
 
 <h2 align="center">Hello, Data Enthusiasts!👋 I'm Tajamul Khan 😎 </h2>
-
-
-###
-
 <h4 align="center">
-👩‍💻 Your go-to Data Scientist, passionate about AI 🤖
+
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Stellar+Data+Scientist+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Consultant+and+a+Mentor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
   </a></h4>
   
 ###
@@ -42,11 +39,7 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">😍 Facts About Me</h3>
-
-###
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Facts About Me**
 
 <img align="right" height="295" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
