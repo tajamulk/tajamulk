@@ -3,10 +3,14 @@
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
 </div>
 
-###
-
-<h2 align="center">Hello, Data Enthusiasts!👋 I'm Tajamul Khan 😎 </h2>
-<h4 align="center">
+<h2 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a> 
+  Hello, Data Enthusiasts! I'm Tajamul Khan
+  <a target="_blank">
+  </a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Stellar+Data+Scientist+🌟+Consultant+🆘+and+Mentor+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB"></h3>
   </a></h4>
@@ -72,9 +76,7 @@
 ⚡ Fun fact: Common sense is not so common 😂
 
 
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks:
 
 ###
 
@@ -97,7 +99,7 @@
 
 ###
 
-<h3 align="left">📊   My Stats</h3>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github Stats</h3>
   
 <br clear="both">
 
