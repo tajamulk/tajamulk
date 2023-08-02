@@ -1,4 +1,4 @@
-<br clear="both">   1234567890 1
+<br clear="both">   1234567890 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
 </div>
