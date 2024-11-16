@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
 </div>
 
-<h2 align="center">
+<h1 align="center">
   Hi, I'm Tajamul Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
