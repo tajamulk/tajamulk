@@ -7,7 +7,7 @@
   Hi, I'm Tajamul Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator🎬 "></h3>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator🎬"></h3>
   </a></h4>
 <div align="center">
     <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
