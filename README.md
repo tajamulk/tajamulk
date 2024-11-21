@@ -7,9 +7,7 @@
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
-  <a href="https://preplaced.in/profile/tajamul-khan-21"><img src="https://img.shields.io/badge/Preplaced-%23006f5c.svg?style=for-the-badge&logo=preplaced&logoColor=white"></a>
-  <a href="https://topmate.io/tajamulk"><img src="https://img.shields.io/badge/Topmate-12100E?style=for-the-badge&logo=topmate&logoColor=white"></a>
+  <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
 
 <div style="text-align: center;">
   <h3>
@@ -27,11 +25,10 @@
 | ------------- | ------------- |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I post data science resources, interview strategies and job opportunities |
 | [Medium ](https://medium.com/@yousefhosni)  | My data science blog, featuring articles on various data science topics |
-| [Mentoring ](https://topmate.io/youssef_hosni)  |I offer long term data science mentoring from scratch to job placement|
 | [E-Books & Courses](https://tajamulk.gumroad.com/)| My e-books, notes and courses on data science and AI |
-| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking interviews |
 | [Newsletter ](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
-
+| [Preplaced](https://preplaced.in/profile/tajamul-khan-21)  |I offer long term data science mentoring from scratch to job placement|
+| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking interviews |
 
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
