@@ -27,7 +27,7 @@
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I post data science resources, interview strategies and job opportunities |
 | [Medium ](https://medium.com/@yousefhosni)  | My data science blog, featuring articles on various data science topics |
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer long term data science mentoring from basics to job placement|
-| [E-Books & Courses](https://tajamulk.gumroad.com/))| My data science and AI e-books and courses |
+| [E-Books & Courses](https://tajamulk.gumroad.com/)| My e-books, notes and courses on Data Science and AI |
 | [Google Scholar](https://scholar.google.com/citations?hl=en&user=HDwCSLsAAAAJ&view_op=list_works&gmla=ABEO0YoNjlo3qozDriwXWgvx6K2V3vxxiNydOi12af3QGAUlEWqBN0BgcfvQPldb7S1ujIx-SKys0bbhaZQVmAtd) | My papers and research output |
 | [Newsletter ](https://youssefh.substack.com/)  | My data science & AI newsletter  |
 
