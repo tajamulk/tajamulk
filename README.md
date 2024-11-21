@@ -17,6 +17,23 @@
   </h3>
 </div>
 
+<h3 align="Center">
+  Connect with me
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+</h3>
+
+| Media  | Summary |
+| ------------- | ------------- |
+| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I post data science resources, interview strategies and job opportunities |
+| [Mentoring ](https://topmate.io/youssef_hosni)  |I offer long term data science mentoring from basics to job placement|
+|[Google Scholar](https://scholar.google.com/citations?hl=en&user=HDwCSLsAAAAJ&view_op=list_works&gmla=ABEO0YoNjlo3qozDriwXWgvx6K2V3vxxiNydOi12af3QGAUlEWqBN0BgcfvQPldb7S1ujIx-SKys0bbhaZQVmAtd) | My papers and research output |
+| [Newsletter ](https://youssefh.substack.com/)  | My data science & AI newsletter  |
+|[E-Books & Courses](https://youssefhosni.gumroad.com/)| My data science and AI e-books and courses |
+| [Medium ](https://medium.com/@yousefhosni)  | My data science blog where I write data science articles   |
+| [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
+| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
+| [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
+
 
 
 
@@ -113,11 +130,8 @@
 
   
 <h3>
-  <div align="center">
-  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-   Let's stay connected here
-  </a>
+   Lets Connect
 </h3>
 
 <h3 align="center">Let's stay connected here</h3><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
