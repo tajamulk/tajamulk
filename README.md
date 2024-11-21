@@ -28,7 +28,7 @@
 | [E-Books & Courses](https://tajamulk.gumroad.com/)| My e-books, notes and courses on data science and AI |
 | [Newsletter ](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21)  |I offer long term data science mentoring from scratch to job placement|
-| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data interviews |
+| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
 
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
 | [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
