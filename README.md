@@ -7,7 +7,7 @@
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://preplaced.in/profile/tajamul-khan-21"><img src="https://img.shields.io/badge/Preplaced-%23006f5c.svg?style=for-the-badge&logo=preplaced&logoColor=FF6719"></a>
+  <a href="https://preplaced.in/profile/tajamul-khan-21"><img src="https://img.shields.io/badge/Preplaced-%23006f5c.svg?style=for-the-badge&logo=preplaced&logoColor=white"></a>
   <a href="https://topmate.io/tajamulk"><img src="https://img.shields.io/badge/Topmate-12100E?style=for-the-badge&logo=topmate&logoColor=white"></a>
 
 <div style="text-align: center;">
