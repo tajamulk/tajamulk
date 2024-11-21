@@ -9,63 +9,17 @@
   <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://preplaced.in/profile/tajamul-khan-21"><img src="https://img.shields.io/badge/Preplaced-%23006f5c.svg?style=for-the-badge&logo=preplaced&logoColor=FF6719"></a>
   <a href="https://topmate.io/tajamulk"><img src="https://img.shields.io/badge/Topmate-12100E?style=for-the-badge&logo=topmate&logoColor=white"></a>
-  
-<h3>
-  <div align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-   Let's stay connected here
-  </a>
-</h3>
 
-<h3 align="center">Let's stay connected here</h3><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-<div align="center">
-  <a href="https://www.linkedin.com/in/youssef-hosni-b2960b135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://youssefh.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
-  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://www.kaggle.com/youssef19"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<div style="text-align: center;">
+  <h3>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> 
+    <a href="https://github.com/youssefHosni/Data-Science-Portofolio">My Data Science Portfolio</a>
+  </h3>
 </div>
 
-<br clear="both"> 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
-</div>
 
-<h2 align="center">
-  Hi, I'm Tajamul Khan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h3>
 
-## You can follow me here ##
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
-
-  </a></h4>
-<div align="center">
-    <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@tajamulk2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21717139/tajamul-khan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="20" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/tajamulk?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="20" alt="hackerrank logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.kaggle.com/tajamulkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=k Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%22height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
-  </a>
-</div>
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Facts About Me**
 
@@ -155,3 +109,62 @@
 <h3 align="left">☕   Support Me</h3>
 
 <a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=tajamulk2&button_colour=ffdd00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>  
+
+
+  
+<h3>
+  <div align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+   Let's stay connected here
+  </a>
+</h3>
+
+<h3 align="center">Let's stay connected here</h3><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-hosni-b2960b135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youssefh.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.kaggle.com/youssef19"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</div>
+
+<br clear="both"> 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
+</div>
+
+<h2 align="center">
+  Hi, I'm Tajamul Khan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h3>
+
+## You can follow me here ##
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
+
+  </a></h4>
+<div align="center">
+    <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@tajamulk2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21717139/tajamul-khan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="20" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/tajamulk?hr_r=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="20" alt="hackerrank logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.kaggle.com/tajamulkhan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=k Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%22height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
+  </a>
+</div>
