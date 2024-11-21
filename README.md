@@ -1,13 +1,61 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tajamulk2/count.svg"/>
+  <h2>Hi, I'm Tajamul Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+  <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=18&center=true&vCenter=true&width=700&height=18&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
+  <a href="https://www.linkedin.com/in/tajamulk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://youssefh.substack.com/"><img src="https://img.shields.io/badge/Preplaced-%23006f5c.svg?style=for-the-badge&logo=preplaced&logoColor=FF6719"></a>
+<a href="https://topmate.io/yourprofile">
+  <img src="https://img.shields.io/badge/Topmate-12100E?style=for-the-badge&logo=topmate&logoColor=white">
+</a>
+
+<h2 align="center">
+  Hi, I'm Tajamul Khan 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h2>
+
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬">
+</h4>
+
+<h3>
+  <div align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+   Let's stay connected here
+  </a>
+</h3>
+
+<h3 align="center">Let's stay connected here</h3><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-hosni-b2960b135/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youssefh.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.kaggle.com/youssef19"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</div>
+
 <br clear="both"> 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tajamulk2/count.svg?"/>
 </div>
 
-<h1 align="center">
+<h2 align="center">
   Hi, I'm Tajamul Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h3>
+
+## You can follow me here ##
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
+
   </a></h4>
 <div align="center">
     <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
