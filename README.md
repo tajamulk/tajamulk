@@ -30,13 +30,6 @@
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
 | [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
 
-| [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
-| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I share data science interview questions and practical machine learning tips|
-| [Twitter ](https://twitter.com/Youssef70125494)  |  I share data science interview questions and practical machine learning tips  |
-
-
-
-
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Facts About Me**
 
