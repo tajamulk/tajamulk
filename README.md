@@ -31,12 +31,19 @@
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
 | [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
 
-
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Facts About Me**
-
-<img align="right" height="295" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
+<h3 align="Center">
+  Open Source & Projects
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+</h3>
 ###
+
+<h3 align="Center">
+  Open Source & Projects
+    <img src="[13912339-Portfolio-gif](https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif)" height="25px" style="max-width:100%;">
+</h3>
+###
+
+[Portfolio!](https://dribbble.com/shots/13912339-Portfolio-gif)
 
 👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)
 
