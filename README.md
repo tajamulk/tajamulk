@@ -23,11 +23,11 @@
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/youssef-hosni-b2960b135/)  | I post data science resources, interview strategies and job opportunities |
-| [Medium ](https://medium.com/@yousefhosni)  | My data science blog, featuring articles on various data science topics |
-| [E-Books & Courses](https://tajamulk.gumroad.com/)| My e-books, notes and courses on data science and AI |
-| [Newsletter ](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
-| [Preplaced](https://preplaced.in/profile/tajamul-khan-21)  |I offer long term data science mentoring from scratch to job placement|
+| [LinkedIn ](https://www.linkedin.com/in/tajamulk/) | I post data science resources, interview strategies and job opportunities |
+| [Medium ](https://medium.com/@yousefhosni) | My data science blog, featuring articles on various data science topics |
+| [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
+| [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
+| [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
 | [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
 
 | [Mentoring ](https://topmate.io/youssef_hosni)  |I offer data science career mentoring and CV & portfolio feedback |
