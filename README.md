@@ -39,74 +39,45 @@
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Machine Learning ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problems |
+| [Machine Learning Projects ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulk/EDA-Using-Python) | Python projects focused on extracting insights from complex datasets |
-| [Time Series Analysis ](https://github.com/tajamulk/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
-| [Statistical Analysis ](https://github.com/tajamulk/Statistical-Analysis-Using-Python)  | Statistical projects uncovering patterns and relationships in data |
+| [Time Series Analysis Projects ](https://github.com/tajamulk/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
+| [Statistical Analysis Projects ](https://github.com/tajamulk/Statistical-Analysis-Using-Python)  | Statistical projects uncovering patterns and relationships in data |
 | [Data Science Notes ](https://github.com/tajamulk/Data-Science-Notes) | Comprehensive notes simplifying key data science concepts |
-| [Generative AI ](https://github.com/tajamulk/Generative-AI) | Innovative projects exploring AI-generated content and models. |
+| [Generative AI Projects ](https://github.com/tajamulk/Generative-AI) | Innovative projects exploring AI-generated content and models. |
 | [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulk2) | Interactive dashboards and visuals for impactful storytelling. |
-| [Kaggle Projects ](https://github.com/tajamulk/Python-DSA) | Diverse data science solutions showcased on Kaggle |
+| [End to End Projects ](https://github.com/tajamulk/Python-DSA) | Diverse data science solutions showcased on Kaggle |
 
 
 <h3 align="Center">
-  Open Source & Projects
-    <img src="[13912339-Portfolio-gif](https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif)" height="25px" style="max-width:100%;">
+  Tech Stacks
+    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   
 </h3>
-###
 
-[Portfolio!](https://dribbble.com/shots/13912339-Portfolio-gif)
-
-👨‍💻 Check out my [Portfolio!](https://tajamul.dev.voyage/)
-
-🏅 Explore some Dashboards: [Power Bi,](https://www.novypro.com/profile_projects/tajamulk2) [Tableau](https://public.tableau.com/app/profile/tajamul.khan) 
-
-🔭 I’m currently working on [End to End ML Deployment](https://github.com/tajamulk2/mlproject)
-
-🌱 My latest hinges are [Deep Learning,](https://udemy.com/course/machinelearning/learn/lecture/34759790#overview) [AWS,](https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQjw98ujBhCgARIsAD7QeAhd8QzRxW9d_TM5Qowpyf-LMLct1Zyq4GeFUjb80zd4OOlYk82RBHYaAh_0EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [Azure](https://azure.microsoft.com/en-in)
-
-👯 Let's collaborate on <a href="https://github.com/tajamulk2/TensorFlow-OpenSource" target="_blank"><img src="https://camo.githubusercontent.com/db3b61f607202fec45d5a1591c42ef8bd2a9d9bc721a8c1990fb4f107c01b3af/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e7376673f763d313033"  />
-
-🤝 I’m looking for help with [Open Source Collaborations](https://www.linkedin.com/in/tajamulk2/)
-
-📝 I regularly post articles on </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a> <a href="https://medium.com/@tajamulk2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="20" alt="medium logo"  />
+<h3 align="Center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo"  />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
+</h3>
   
-💬 Ask me about [Data Science,](https://www.linkedin.com/in/tajamulk2/) [Notes,](https://www.linkedin.com/in/tajamulk2/) [Mentorship](https://www.linkedin.com/in/tajamulk2/)
-
-📫 How to reach me </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a> 
-  </a> <a href="https://mail.google.com/mail/u/0/tajamulk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
-
-📄 Know about my experiences in my [Resume 😎](https://drive.google.com/file/d/1yOn8EOH5pCIu4QrnuAmOUmSpz8ETSe56/view)
-  
-⚡ Fun fact: Common sense is not so common 😂
-
-
-<h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stacks:
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
+</h3>
 
-###
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github Stats</h3>
 
@@ -183,5 +154,13 @@
   </a>
   <a href="https://www.kaggle.com/tajamulkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=k Kaggle&logo=%F0%9F%93%8A&label=&color=1877F2&logoColor=white&labelColor=&style=plastic%22%22height=%2220%22%20alt=%22port%20logo%22" height="20" alt="gmail logo"  />
-  </a>
+ 
+
+  
+  
+  
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tajamulk&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajamulk" alt="tajamulk" /></a> </p>
