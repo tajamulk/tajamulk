@@ -75,11 +75,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
 </h3>
 
-
 <h3 align="center"> 
   GitHub Stats 🥇
-  <img src="https://pixabay.com/gifs/trophy-award-victory-winner-cup-6387/" width="24px">
 </h3>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tajamulk" alt="GitHub Trophies for tajamulk" />
