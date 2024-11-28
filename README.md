@@ -78,6 +78,7 @@
 
 <h3 align="center"> 
   GitHub Stats 🥇
+  <img src="https://pixabay.com/gifs/trophy-award-victory-winner-cup-6387/" width="24px">
 </h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
