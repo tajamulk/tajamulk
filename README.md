@@ -37,7 +37,7 @@
 </h3>
 
 
-| Media  | Summary |
+| Topic  | Summary |
 | ------------- | ------------- |
 | [Machine Learning ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulk/EDA-Using-Python) | Python projects focused on extracting insights from complex datasets |
