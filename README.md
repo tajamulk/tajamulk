@@ -18,7 +18,7 @@
 </div>
 
 <h3 align="Center">
-  Connect with me
+  Connect with me 
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
 
@@ -33,11 +33,13 @@
 
 <h3 align="Center">
   Open Source & Projects
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
 </h3>
+
+
 | Media  | Summary |
 | ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/tajamulk/) | I post data science resources, interview strategies and job opportunities |
+| [Machine Learning Projects ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problemss |
 | [Medium ](https://medium.com/@tajamulk) | My data science blog, featuring articles on various data science topics |
 | [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
 | [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
@@ -90,7 +92,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
@@ -98,7 +99,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
@@ -109,14 +109,6 @@
 
 ###
 
-<h3 align="left">🔥   Viral Blogs</h3>
-
-[SQL Joins MEME 👈](https://www.linkedin.com/posts/tajamulk2_sql-join-is-the-most-repeated-question-in-activity-7063444357529403392-J2xU?utm_source=share&utm_medium=member_desktop)
-[SQL Handwritten Notes 👈](https://www.linkedin.com/posts/tajamulk2_sql-for-interview-activity-7060259004849008640-UFOB?utm_source=share&utm_medium=member_desktop)
-[Data Analyst Interview Questions 👈](https://www.linkedin.com/posts/tajamulk2_top-50-interview-questions-activity-7059913488512544768-X-ar?utm_source=share&utm_medium=member_desktop)
-[Excel Shortcuts 👈](https://www.linkedin.com/posts/tajamulk2_excel-shortcuts-activity-7060772728185786368-MrY8?utm_source=share&utm_medium=member_desktop)
-[Learn SQL for Free! 👈](https://medium.com/@tajamulk2/want-to-learn-sql-for-free-8e583d8e8496)
-  
 ###
 
 <h3>
