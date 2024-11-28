@@ -39,12 +39,15 @@
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [Machine Learning Projects ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problemss |
-| [Medium ](https://medium.com/@tajamulk) | My data science blog, featuring articles on various data science topics |
-| [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
-| [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
-| [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
-| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
+| [Machine Learning ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed machine learning projects addressing real-world problems |
+| [Python for Data Analysis ](https://github.com/tajamulk/EDA-Using-Python) | Python projects focused on extracting insights from complex datasets |
+| [Time Series Analysis ](https://github.com/tajamulk/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
+| [Statistical Analysis ](https://github.com/tajamulk/Statistical-Analysis-Using-Python)  | Statistical projects uncovering patterns and relationships in data |
+| [Data Science Notes ](https://github.com/tajamulk/Data-Science-Notes) | Comprehensive notes simplifying key data science concepts |
+| [Generative AI ](https://github.com/tajamulk/Generative-AI) | Innovative projects exploring AI-generated content and models. |
+| [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulk2) | Interactive dashboards and visuals for impactful storytelling. |
+| [Kaggle Projects ](https://github.com/tajamulk/Python-DSA) | Diverse data science solutions showcased on Kaggle |
+
 
 <h3 align="Center">
   Open Source & Projects
