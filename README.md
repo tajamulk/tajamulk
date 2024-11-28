@@ -35,7 +35,14 @@
   Open Source & Projects
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
-###
+| Media  | Summary |
+| ------------- | ------------- |
+| [LinkedIn ](https://www.linkedin.com/in/tajamulk/) | I post data science resources, interview strategies and job opportunities |
+| [Medium ](https://medium.com/@tajamulk) | My data science blog, featuring articles on various data science topics |
+| [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
+| [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
+| [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
+| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
 
 <h3 align="Center">
   Open Source & Projects
