@@ -33,6 +33,7 @@
 
 <h3 align="Center">
   Open Source & Projects
+    <img src="https://www.behance.net/gallery/37524559/project-Gif.gif" width="25px">
     <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px">
 </h3>
 
@@ -73,9 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
-</h3>
-  
-</div>
 </h3>
 
 
