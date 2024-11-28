@@ -4,9 +4,9 @@
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=19&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
   <a href="https://www.linkedin.com/in/tajamulk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@yousefhosni"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@tajamulk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
 
@@ -25,7 +25,7 @@
 | Media  | Summary |
 | ------------- | ------------- |
 | [LinkedIn ](https://www.linkedin.com/in/tajamulk/) | I post data science resources, interview strategies and job opportunities |
-| [Medium ](https://medium.com/@yousefhosni) | My data science blog, featuring articles on various data science topics |
+| [Medium ](https://medium.com/@tajamulk) | My data science blog, featuring articles on various data science topics |
 | [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
 | [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
