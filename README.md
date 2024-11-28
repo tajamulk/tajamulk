@@ -98,4 +98,3 @@
   <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
 <div style="text-align: center;">
   <h3>
-###
