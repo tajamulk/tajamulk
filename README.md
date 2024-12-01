@@ -41,7 +41,7 @@
 | ------------- | ------------- |
 | [Machine Learning Projects ](https://github.com/tajamulk/Machine-Learning-Projects) | I developed multiple projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulk/EDA-Using-Python) | Python projects focused on extracting insights from complex data |
-| [Python + DSA ](https://github.com/tajamulk/Python-DSA) | Here I store exercises and notes for Python Programming |
+| [Python + DSA ](https://github.com/tajamulk/Python-DSA) | I store exercises and notes for python programming here |
 | [Time Series Analysis Projects ](https://github.com/tajamulk/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
 | [Statistical Analysis Projects ](https://github.com/tajamulk/Statistical-Analysis-Using-Python)  | Statistical projects uncovering patterns and relationships in data |
 | [Data Science Notes ](https://github.com/tajamulk/Data-Science-Notes) | Comprehensive notes simplifying key data science concepts |
