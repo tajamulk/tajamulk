@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tajamulk&theme=gruvbox" alt="GitHub Trophies for tajamulk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tajamulk" alt="GitHub Trophies for tajamulk" />
   </a>
 </p>
 
