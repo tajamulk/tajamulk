@@ -41,14 +41,15 @@
 | ------------- | ------------- |
 | [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My Free e-books and notes on data science and AI |
 | [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning) | I developed multiple projects addressing real-world problems |
-| [Python for Data Analysis ](https://github.com/tajamulkhann/EDA-Using-Python) | Python projects focused on extracting insights from complex data |
+| [Python for Data Analysis ](https://github.com/tajamulkhann/Exploratory-Data-Analysis) | Python projects focused on extracting insights from complex data |
 | [Python + DSA ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
-| [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
-| [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis-Using-Python)  | Statistical projects uncovering patterns and relationships in data |
-| [Data Science Notes ](https://github.com/tajamulkhann/Data-Science-Notes) | Comprehensive notes simplifying key data science concepts |
+| [Big Data Engineering ](https://github.com/tajamulkhann/Big-Data-Engineering) | Code and Resources for Big Data |
+| [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis) | Projects analyzing temporal data for trends and forecasting. |
+| [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis)  | Statistical projects uncovering patterns and relationships in data |
+| [Data Science Notes ](https://github.com/tajamulkhann/Data-Science-Resources) | Comprehensive notes simplifying key data science concepts |
 | [Generative AI Projects ](https://github.com/tajamulkhann/Generative-AI) | Innovative projects exploring AI-generated content and models. |
 | [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulk2) | Interactive dashboards and visuals for impactful storytelling. |
-| [End to End Projects ](https://github.com/tajamulkhann/Python-DSA) | Diverse data science solutions showcased on Kaggle |
+| [End to End Projects ](https://github.com/tajamulkhann/End-to-End-Deployment) | End to End deployment of data science projects |
 
 
 <h3 align="Center">
