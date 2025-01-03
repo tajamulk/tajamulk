@@ -48,7 +48,7 @@
 | [Statistical Analysis Projects ](https://github.com/tajamulkhann/Statistical-Analysis)  | Statistical projects uncovering patterns and relationships in data |
 | [Data Science Resources ](https://github.com/tajamulkhann/Data-Science-Resources) | Comprehensive notes simplifying key data science concepts |
 | [Generative AI Projects ](https://github.com/tajamulkhann/Generative-AI) | Innovative projects exploring AI-generated content and models. |
-| [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulk2) | Interactive dashboards and visuals for impactful storytelling. |
+| [Visualisation Projects ](https://www.novypro.com/profile_about/tajamulkhan) | Interactive dashboards and visuals for impactful storytelling. |
 | [End to End Projects ](https://github.com/tajamulkhann/End-to-End-Deployment) | End to End deployment of data science projects |
 
 
