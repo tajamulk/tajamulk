@@ -27,8 +27,8 @@
 | [LinkedIn ](https://www.linkedin.com/in/tajamulkhann/) | I post data science resources, interview strategies and job opportunities |
 | [Medium ](https://medium.com/@tajamulkhan) | My data science blog, featuring articles on various data science topics |
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
-| [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My e-books, notes and courses on data science and AI |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
+| [Gumroad](https://tajamulkhan.gumroad.com/) | Check Free e-books and notes on data science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
 | [Topmate](https://topmate.io/tajamulkhan) | Free resources and help on cracking data science interviews |
 
@@ -40,6 +40,7 @@
 
 | Topic  | Summary |
 | ------------- | ------------- |
+| [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My Free e-books and notes on data science and AI |
 | [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning-Projects) | I developed multiple projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulkhann/EDA-Using-Python) | Python projects focused on extracting insights from complex data |
 | [Python + DSA ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
