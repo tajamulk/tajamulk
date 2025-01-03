@@ -3,17 +3,17 @@
   <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=19&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
-  <a href="https://www.linkedin.com/in/tajamulk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@tajamulk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@tajamulkhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+  <a href="https://github.com/tajamulkhann"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://substack.com/@tajamulkhan"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
 
 <div style="text-align: center;">
   <h3>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> 
-    <a href="https://tajamulk.github.io/">My Data Science Portfolio</a>
+    <a href="https://tajamulkhann.github.io/">My Data Science Portfolio</a>
   </h3>
 </div>
 
@@ -24,12 +24,12 @@
 
 | Media  | Summary |
 | ------------- | ------------- |
-| [LinkedIn ](https://www.linkedin.com/in/tajamulk/) | I post data science resources, interview strategies and job opportunities |
-| [Medium ](https://medium.com/@tajamulk) | My data science blog, featuring articles on various data science topics |
-| [E-Books & Courses](https://tajamulk.gumroad.com/) | My e-books, notes and courses on data science and AI |
-| [Newsletter ](https://substack.com/@tajamulk/)  | My newsletter on Data Science and AI |
+| [LinkedIn ](https://www.linkedin.com/in/tajamulkhann/) | I post data science resources, interview strategies and job opportunities |
+| [Medium ](https://medium.com/@tajamulkhan) | My data science blog, featuring articles on various data science topics |
+| [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My e-books, notes and courses on data science and AI |
+| [Newsletter ](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
-| [Topmate](https://topmate.io/tajamulk) | Free resources and help on cracking data science interviews |
+| [Topmate](https://topmate.io/tajamulkhan) | Free resources and help on cracking data science interviews |
 
 <h3 align="Center">
   Open Source & Projects
@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tajamulk&theme=darkhub" alt="GitHub Trophies for tajamulk" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tajamulkhann&theme=darkhub" alt="GitHub Trophies for tajamulk" />
   </a>
 </p>
 
@@ -90,11 +90,11 @@
   Let's keep in touch
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
 </h3>
-  <a href="https://www.linkedin.com/in/tajamulk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@tajamulk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@tajamulkhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://github.com/tajamulk"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://substack.com/@tajamulk"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+  <a href="https://github.com/tajamulkhann"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://substack.com/@tajamulkhan"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
 <div style="text-align: center;">
   <h3>
