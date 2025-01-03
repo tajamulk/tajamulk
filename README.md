@@ -40,7 +40,7 @@
 | Topic  | Summary |
 | ------------- | ------------- |
 | [E-Books & Courses](https://tajamulkhan.gumroad.com/) | My Free e-books and notes on data science and AI |
-| [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning-Projects) | I developed multiple projects addressing real-world problems |
+| [Machine Learning Projects ](https://github.com/tajamulkhann/Machine-Learning) | I developed multiple projects addressing real-world problems |
 | [Python for Data Analysis ](https://github.com/tajamulkhann/EDA-Using-Python) | Python projects focused on extracting insights from complex data |
 | [Python + DSA ](https://github.com/tajamulkhann/Python-DSA) | I store exercises and notes for python programming here |
 | [Time Series Analysis Projects ](https://github.com/tajamulkhann/Time-Series-Analysis-Using-Python) | Projects analyzing temporal data for trends and forecasting. |
