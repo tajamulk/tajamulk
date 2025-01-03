@@ -28,7 +28,6 @@
 | [Medium ](https://medium.com/@tajamulkhan) | My data science blog, featuring articles on various data science topics |
 | [Kaggle ](https://www.kaggle.com/tajamulkhan) | I post data science and AI projects here |
 | [Newsletter](https://substack.com/@tajamulkhan/)  | My newsletter on Data Science and AI |
-| [Gumroad](https://tajamulkhan.gumroad.com/) | Check Free e-books and notes on data science and AI |
 | [Preplaced](https://preplaced.in/profile/tajamul-khan-21) | I offer long term data science mentoring from scratch to job placement |
 | [Topmate](https://topmate.io/tajamulkhan) | Free resources and help on cracking data science interviews |
 
